@@ -16,7 +16,7 @@ function index({title,src}) {
               {title}
               </div>
               <div className={styles.mediacard__content_small1}> 
-              September 11|9:30PM 
+              September 11 | 9:30PM 
               </div>
               <div className={styles.mediacard__content_small2}>  
               Watch on Zoom
